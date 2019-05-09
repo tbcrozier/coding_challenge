@@ -19,7 +19,7 @@ Build a simple web form that ingests the `data.tsv` file in this repo.  Don't wo
 - Handle errors gracefully
 - User should have the ability to upload multiple times so provide some page navigation to do so
 - You should document everything needed to build your project from scratch(include with the project ie. README).  Assume you are handing this over to someone new so they need all the information to build your entire project(web app, backend, libraries, etc.) and the steps to execute.
-- Project and be packaged and emailed, or just use [Github](https://github.com) and share.
+- Project can be packaged, emailed, or just use [Github](https://github.com) and share.
 - Have fun!
 
 
