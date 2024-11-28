@@ -1,0 +1,22 @@
+# Ignore IDE or editor files
+.vscode/
+.idea/
+.DS_Store
+
+# Ignore Terraform state files
+*.tfstate
+*.tfstate.*
+
+
+# # Ignore environment and configuration files
+# .env
+# *.pem
+# config/*.json
+
+# # Ignore logs
+# *.log
+
+# # Ignore compiled files or build artifacts
+# /dist
+# /build
+# *.pyc
