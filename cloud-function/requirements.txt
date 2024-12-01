@@ -1,3 +1,4 @@
 google-cloud-storage
-pytest    
-ipython         
+google-cloud-bigquery
+pytest
+ipython
