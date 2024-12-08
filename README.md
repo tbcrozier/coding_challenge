@@ -27,3 +27,10 @@ Build a simple web form that ingests the `data.tsv` file in this repo.  Don't wo
 
 ## Summary
 This test is meant to test problem solving, creativity, and documentation.  Don't spend more than a couple of hours.  This isn't a pass or fail test we just want to see how our tackle problems and your level of detail.
+
+
+
+
+ ~/repos/tbcrozier/terraform_playground_coding_challenge/cloud-function/ zip -r function.zip .
+
+

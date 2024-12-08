@@ -83,7 +83,7 @@ resource "google_service_account" "bqowner" {
 resource "google_bigquery_table" "tsv_table" {
   dataset_id = google_bigquery_dataset.dataset.dataset_id
   table_id   = "tsv_table"
-
+  deletion_protection=false
   time_partitioning {
     type = "DAY"
   }
